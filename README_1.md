@@ -38,11 +38,11 @@ python3 -m http.server 8080
 
 ## 參考論文
 
-1. Huang et al. (1998) — EMD 原始論文，Proc. R. Soc. London A
-2. Wu & Huang (2009) — EEMD，Advances in Adaptive Data Analysis
-3. Hassan & Bhuiyan (2016) — 睡眠自動分期，Journal of Neuroscience Methods
-4. Liang et al. (2005) — EMD 神經訊號分析，Neurocomputing
-5. Flandrin et al. (2004) — EMD as filter bank，IEEE Signal Processing Letters
-6. Pachori & Bajaj (2011) — EEG 異常偵測，Computer Methods and Programs in Biomedicine
-7. Yeh et al. (2010) — 睡眠 HRV 分析，Applied Physics Letters
-8. Hsu et al. (2013) — EEG 睡眠分期，Neurocomputing
+1. Huang et al. (1998) — EMD 原始論文，*Proc. R. Soc. Lond. A*, 454(1971), 903–995. [doi:10.1098/rspa.1998.0193](https://doi.org/10.1098/rspa.1998.0193)
+2. Wu & Huang (2009) — EEMD，*Advances in Adaptive Data Analysis*, 1(1), 1–41. [doi:10.1142/S1793536909000047](https://doi.org/10.1142/S1793536909000047)
+3. Hassan & Bhuiyan (2016) — CEEMDAN 睡眠自動分期，*Biomedical Signal Processing and Control*, 24, 1–10. [doi:10.1016/j.bspc.2015.09.002](https://doi.org/10.1016/j.bspc.2015.09.002)
+4. Liang et al. (2005) — EMD 神經訊號分析，*Neurocomputing*, 65–66, 801–807. [doi:10.1016/j.neucom.2004.10.077](https://doi.org/10.1016/j.neucom.2004.10.077)
+5. Flandrin et al. (2004) — EMD as a filter bank，*IEEE Signal Processing Letters*, 11(2), 112–114. [doi:10.1109/LSP.2003.821662](https://doi.org/10.1109/LSP.2003.821662)
+6. Pachori & Bajaj (2011) — EEG 異常偵測，*Computer Methods and Programs in Biomedicine*, 104(3), 373–381. [doi:10.1016/j.cmpb.2011.03.009](https://doi.org/10.1016/j.cmpb.2011.03.009)
+7. Yeh et al. (2010) — 心跳時間序列固有模態分析，*Annals of Biomedical Engineering*, 38(4), 1337–1344. [doi:10.1007/s10439-010-9939-z](https://doi.org/10.1007/s10439-010-9939-z)
+8. Liu et al. (2021) — EEMD 單通道 EEG 自動睡眠分期，*Physica A*, 567, 125685. [doi:10.1016/j.physa.2020.125685](https://doi.org/10.1016/j.physa.2020.125685)
