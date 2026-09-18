@@ -1,0 +1,8 @@
+{
+  "build": {
+    "type": "static"
+  },
+  "output": {
+    "dir": "."
+  }
+}
